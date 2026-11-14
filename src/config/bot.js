@@ -25,10 +25,10 @@ export const botConfig = {
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "Hey Stalker!",     // this is what people actually see
-        type: Play, love, live.,               // Custom
-      },Life is a game.
-    ],Live with soul.
-  },Play with fire.
+        type: ,               // Custom
+      },
+    ],
+  },
 
   // =========================
   // COMMAND BEHAVIOR
